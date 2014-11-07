@@ -1,7 +1,7 @@
 Description
 =========
 
-Le script marche encore, mais n'ai plus mis à jour. Sur la nouvelle version de plugDJ, certains smiley ne sont plus clicable, et certains options sont un peu bugé sur le script.
+Le script marche encore, mais n'est plus mis à jour. Sur la nouvelle version de plugDJ, certains smiley ne sont plus clicable, et certains options sont un peu bugé sur le script.
 
 Voici un script PlugDJ pour avoir toutes les smiley sur le site.
 
